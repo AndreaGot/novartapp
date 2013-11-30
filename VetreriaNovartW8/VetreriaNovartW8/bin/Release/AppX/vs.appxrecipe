@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUCA</Machine>
+    <WindowsUser>andre_000</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>00448f3f-956a-415c-8b12-a9a9adb400da</PackageIdentityName>
+    <RegisteredManifestChecksum>634355B4F6458D38BBA305DB0536FC17F6D4442CA1E7B22BC3D1C598AA1198CE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>00448f3f-956a-415c-8b12-a9a9adb400da_1.0.0.0_neutral__rbs0zhtm5xzbm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>00448f3f-956a-415c-8b12-a9a9adb400da_rbs0zhtm5xzbm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>00448f3f-956a-415c-8b12-a9a9adb400da</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=andre_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-30T17:43:59.978</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\VetreriaNovartW8.exe">
+      <PackagePath>VetreriaNovartW8.exe</PackagePath>
+      <Modified>2013-11-30T17:43:58.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\390648_2257737284750_1328847345_n.jpg">
+      <PackagePath>Foto\390648_2257737284750_1328847345_n.jpg</PackagePath>
+      <Modified>2013-11-30T17:06:48.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\campioni 029.jpg">
+      <PackagePath>Foto\campioni 029.jpg</PackagePath>
+      <Modified>2013-11-30T17:06:48.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\DSC05418.JPG">
+      <PackagePath>Foto\DSC05418.JPG</PackagePath>
+      <Modified>2013-11-30T17:06:48.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\Foto0061.jpg">
+      <PackagePath>Foto\Foto0061.jpg</PackagePath>
+      <Modified>2013-11-30T17:06:48.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\Immagine2.JPG">
+      <PackagePath>Foto\Immagine2.JPG</PackagePath>
+      <Modified>2013-11-30T17:06:48.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\P1010583.JPG">
+      <PackagePath>Foto\P1010583.JPG</PackagePath>
+      <Modified>2013-11-30T17:06:48.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\P1010612.JPG">
+      <PackagePath>Foto\P1010612.JPG</PackagePath>
+      <Modified>2013-11-30T17:06:48.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\P1010625.JPG">
+      <PackagePath>Foto\P1010625.JPG</PackagePath>
+      <Modified>2013-11-30T17:06:48.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %281%29.jpg">
+      <PackagePath>Immagini\img %281%29.jpg</PackagePath>
+      <Modified>2013-11-29T22:34:57.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %282%29.jpg">
+      <PackagePath>Immagini\img %282%29.jpg</PackagePath>
+      <Modified>2013-11-29T22:34:57.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %283%29.jpg">
+      <PackagePath>Immagini\img %283%29.jpg</PackagePath>
+      <Modified>2013-11-29T22:34:57.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %284%29.jpg">
+      <PackagePath>Immagini\img %284%29.jpg</PackagePath>
+      <Modified>2013-11-29T22:34:57.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %285%29.jpg">
+      <PackagePath>Immagini\img %285%29.jpg</PackagePath>
+      <Modified>2013-11-29T22:34:57.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %286%29.jpg">
+      <PackagePath>Immagini\img %286%29.jpg</PackagePath>
+      <Modified>2013-11-29T22:34:57.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img.jpg">
+      <PackagePath>Immagini\img.jpg</PackagePath>
+      <Modified>2013-11-29T22:34:57.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\350x350.png">
+      <PackagePath>Loghi\350x350.png</PackagePath>
+      <Modified>2013-11-29T22:34:57.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-29T23:17:07.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2013-04-26T01:51:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-29T23:17:07.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-29T23:17:07.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\144x144.png">
+      <PackagePath>Loghi\144x144.png</PackagePath>
+      <Modified>2013-11-29T23:17:07.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\150x150.png">
+      <PackagePath>Loghi\150x150.png</PackagePath>
+      <Modified>2013-11-29T23:17:07.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\30x30.png">
+      <PackagePath>Loghi\30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-29T23:17:07.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\310x150.png">
+      <PackagePath>Loghi\310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-29T23:17:07.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\50x50.png">
+      <PackagePath>Loghi\50x50.png</PackagePath>
+      <Modified>2013-11-29T23:17:07.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\620x300.png">
+      <PackagePath>Loghi\620x300.png</PackagePath>
+      <Modified>2013-11-29T23:17:07.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\Logo.png">
+      <PackagePath>Immagini\Logo.png</PackagePath>
+      <Modified>2013-11-29T22:34:57.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\LogoApp.png">
+      <PackagePath>Immagini\LogoApp.png</PackagePath>
+      <Modified>2013-11-29T22:34:57.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\LogoPiccolo.png">
+      <PackagePath>Immagini\LogoPiccolo.png</PackagePath>
+      <Modified>2013-11-29T22:34:57.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\LogoW8.png">
+      <PackagePath>Immagini\LogoW8.png</PackagePath>
+      <Modified>2013-11-29T22:54:44.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-11-29T23:02:58.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img.gif">
+      <PackagePath>Immagini\img.gif</PackagePath>
+      <Modified>2013-11-29T22:34:57.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-30T17:43:58.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\ChiSiamo.xbf">
+      <PackagePath>ChiSiamo.xbf</PackagePath>
+      <Modified>2013-11-30T17:43:58.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\Creazioni.xbf">
+      <PackagePath>Creazioni.xbf</PackagePath>
+      <Modified>2013-11-30T17:43:58.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\Contattaci.xbf">
+      <PackagePath>Contattaci.xbf</PackagePath>
+      <Modified>2013-11-30T17:43:58.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\Lavorazioni.xbf">
+      <PackagePath>Lavorazioni.xbf</PackagePath>
+      <Modified>2013-11-30T17:43:58.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-11-30T17:43:58.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-30T17:43:59.605</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

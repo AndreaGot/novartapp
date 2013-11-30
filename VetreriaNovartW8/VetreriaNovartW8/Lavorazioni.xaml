@@ -46,5 +46,29 @@
             <TextBlock x:Name="pageTitle" Text="Lavorazioni" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
         </Grid>
+        <Image HorizontalAlignment="Left" Height="470" Margin="978,32,0,0" Grid.Row="1" VerticalAlignment="Top" Width="352" Source="Foto/P1010612.JPG"/>
+        <Image HorizontalAlignment="Left" Height="470" Margin="30,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="424" Source="Foto/P1010625.JPG"/>
+        <Image HorizontalAlignment="Left" Height="418" Margin="398,32,0,0" Grid.Row="1" VerticalAlignment="Top" Width="542" Source="Foto/390648_2257737284750_1328847345_n.jpg"/>
+        <TextBlock x:Name="pageTitle_Copy" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="30,0,942,50" Grid.Row="1" Height="116" FontSize="20">
+        	<Run Text="Parapetto in cristallo di sicurezza"/>
+        	<LineBreak/>
+        	<Run Text="La scelta migliore per affidabilità "/>
+        	<Run Text="ed estetica"/>
+        </TextBlock>
+        <TextBlock x:Name="pageTitle_Copy1" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="406,0,566,86" Grid.Row="1" Height="116" FontSize="20">
+        	<Run Text="Vetri verniciati per cucine"/>
+        	<LineBreak/>
+        	<Run Text="Eleganti, moderni... e facili da pulire!"/>
+        </TextBlock>
+        <TextBlock x:Name="pageTitle_Copy2" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="978,0,-6,10" Grid.Row="1" Height="116" FontSize="20">
+        	<Run Text="Parete in vetro trasparente con pellicole"/>
+        	<LineBreak/>
+        	<Run Text="Per chiudere.. Lasciando aperto"/>
+        </TextBlock>
+        <TextBlock x:Name="pageTitle_Copy3" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="2,0,382,-52" Grid.Row="1" Height="116" FontSize="25" Text="E questi sono solo alcuni esempi.. Contattateci, e troveremo ciò che fa per voi!" />
     </Grid>
 </Page>

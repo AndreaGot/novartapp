@@ -9,12 +9,35 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Image HorizontalAlignment="Left" Height="235" Margin="0,10,0,0" VerticalAlignment="Top" Width="1366" Source="Immagini/LogoW8.png"/>
-        <TextBlock HorizontalAlignment="Left" Height="47" Margin="74,247,-64,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="1356" FontSize="30" FontFamily="Segoe UI Semilight">
-        	<Run Text="Benvenuti nell'applicazione di Vetreria Novart, azienda vetraria con sede a Lavis (Trento)"/>
-        </TextBlock>
-        <Button x:Name="btnChiSiamo" Content="Chi siamo" HorizontalAlignment="Left" Height="210" Margin="26,357,0,0" VerticalAlignment="Top" Width="251" FontSize="30" FontFamily="Segoe WP SemiLight" FontWeight="Normal" Click="btnChiSiamo_Click"/>
+        <Button x:Name="btnChiSiamo" Content="Chi siamo" HorizontalAlignment="Left" Height="210" Margin="38,357,0,0" VerticalAlignment="Top" Width="251" FontSize="30" FontFamily="Segoe WP SemiLight" FontWeight="Normal" Click="btnChiSiamo_Click"/>
         <Button x:Name="btnCreazioni" Content="Creazioni" HorizontalAlignment="Left" Height="210" Margin="381,357,0,0" VerticalAlignment="Top" Width="251" FontSize="30" FontFamily="Segoe WP SemiLight" FontWeight="Normal" Click="btnCreazioni_Click" />
         <Button x:Name="btnLavorazioni" Content="Lavorazioni" HorizontalAlignment="Left" Height="210" Margin="742,357,0,0" VerticalAlignment="Top" Width="251" FontSize="30" FontFamily="Segoe WP SemiLight" FontWeight="Normal" Click="btnLavorazioni_Click"/>
-        <Button x:Name="btnContattaci" Content="Contattaci" HorizontalAlignment="Left" Height="210" Margin="1108,357,0,0" VerticalAlignment="Top" Width="251" FontSize="30" FontFamily="Segoe WP SemiLight" FontWeight="Normal" Click="btnContattaci_Click"/>
+        <Button x:Name="btnContattaci" Content="Contattaci" HorizontalAlignment="Left" Height="210" Margin="1082,357,0,0" VerticalAlignment="Top" Width="251" FontSize="30" FontFamily="Segoe WP SemiLight" FontWeight="Normal" Click="btnContattaci_Click"/>
+        <TextBlock x:Name="pageTitle" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="131,0,19,478" FontSize="30" >
+        	<Run Text="Benvenuti nell'applicazione di Vetreria Novart, azienda vetraria con sede a Lavis (Trento)"/>
+        </TextBlock>
+        <TextBlock x:Name="pageTitle_Copy" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="41,0,1080,10" FontSize="15" Height="189" TextAlignment="Center" LineHeight="22">
+        	<Run Text="Scopri la nostra offerta di produzione.."/>
+        	<LineBreak/>
+        	<Run Text="Magari qualcosa fa al caso tuo! "/>
+        </TextBlock>
+        <TextBlock x:Name="pageTitle_Copy1" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="384,0,737,10" FontSize="15" Height="189" TextAlignment="Center" Text="Il vetro come arte.." LineHeight="22"/>
+        <TextBlock x:Name="pageTitle_Copy2" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="745,0,376,10" FontSize="15" Height="189" TextAlignment="Center" LineHeight="22">
+        	<Run Text="Il vetro applicato all'edilizia "/>
+        	<LineBreak/>
+        	<Run Text="e all'architettura"/>
+        </TextBlock>
+        <TextBlock x:Name="pageTitle_Copy3" Style="{StaticResource HeaderTextBlockStyle}" 
+        	IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="1085,0,36,10" FontSize="15" Height="189" TextAlignment="Center" LineHeight="22">
+        	<Run Text="Controlla gli orari di apertura, "/>
+        	<LineBreak/>
+        	<Run Text="l'indirizzo e i recapiti, "/>
+        	<LineBreak/>
+        	<Run Text="e vieni a trovarci! "/>
+        </TextBlock>
     </Grid>
 </Page>

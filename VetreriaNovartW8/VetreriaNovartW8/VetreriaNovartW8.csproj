@@ -14,7 +14,10 @@
     <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <PackageCertificateKeyFile>VetreriaNovartW8_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>VetreriaNovartW8_StoreKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>F3CB6F84B995A9FA18038882FE6AFF55A6AFFF26</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -133,9 +136,18 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <None Include="VetreriaNovartW8_StoreKey.pfx" />
     <None Include="VetreriaNovartW8_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Foto\390648_2257737284750_1328847345_n.jpg" />
+    <Content Include="Foto\campioni 029.jpg" />
+    <Content Include="Foto\DSC05418.JPG" />
+    <Content Include="Foto\Foto0061.jpg" />
+    <Content Include="Foto\Immagine2.JPG" />
+    <Content Include="Foto\P1010583.JPG" />
+    <Content Include="Foto\P1010612.JPG" />
+    <Content Include="Foto\P1010625.JPG" />
     <Content Include="Loghi\350x350.png" />
     <Content Include="Assets\Logo.scale-100.png" />
     <Content Include="Assets\SmallLogo.scale-100.png" />
@@ -147,6 +159,7 @@
     <Content Include="Loghi\310x150.png" />
     <Content Include="Loghi\50x50.png" />
     <Content Include="Loghi\620x300.png" />
+    <None Include="Package.StoreAssociation.xml" />
     <Page Include="ChiSiamo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

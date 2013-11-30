@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUCA</Machine>
+    <WindowsUser>andre_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>00448f3f-956a-415c-8b12-a9a9adb400da</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\VetreriaNovartW8.exe">
+      <PackagePath>VetreriaNovartW8.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\390648_2257737284750_1328847345_n.jpg">
+      <PackagePath>Foto\390648_2257737284750_1328847345_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\campioni 029.jpg">
+      <PackagePath>Foto\campioni 029.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\DSC05418.JPG">
+      <PackagePath>Foto\DSC05418.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\Foto0061.jpg">
+      <PackagePath>Foto\Foto0061.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\Immagine2.JPG">
+      <PackagePath>Foto\Immagine2.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\P1010583.JPG">
+      <PackagePath>Foto\P1010583.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\P1010612.JPG">
+      <PackagePath>Foto\P1010612.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\P1010625.JPG">
+      <PackagePath>Foto\P1010625.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %281%29.jpg">
+      <PackagePath>Immagini\img %281%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %282%29.jpg">
+      <PackagePath>Immagini\img %282%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %283%29.jpg">
+      <PackagePath>Immagini\img %283%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %284%29.jpg">
+      <PackagePath>Immagini\img %284%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %285%29.jpg">
+      <PackagePath>Immagini\img %285%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img %286%29.jpg">
+      <PackagePath>Immagini\img %286%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img.jpg">
+      <PackagePath>Immagini\img.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\350x350.png">
+      <PackagePath>Loghi\350x350.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\144x144.png">
+      <PackagePath>Loghi\144x144.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\150x150.png">
+      <PackagePath>Loghi\150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\30x30.png">
+      <PackagePath>Loghi\30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\310x150.png">
+      <PackagePath>Loghi\310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\50x50.png">
+      <PackagePath>Loghi\50x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Loghi\620x300.png">
+      <PackagePath>Loghi\620x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\Logo.png">
+      <PackagePath>Immagini\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\LogoApp.png">
+      <PackagePath>Immagini\LogoApp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\LogoPiccolo.png">
+      <PackagePath>Immagini\LogoPiccolo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\LogoW8.png">
+      <PackagePath>Immagini\LogoW8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Immagini\img.gif">
+      <PackagePath>Immagini\img.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\ChiSiamo.xbf">
+      <PackagePath>ChiSiamo.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\Creazioni.xbf">
+      <PackagePath>Creazioni.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\Contattaci.xbf">
+      <PackagePath>Contattaci.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\Lavorazioni.xbf">
+      <PackagePath>Lavorazioni.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
