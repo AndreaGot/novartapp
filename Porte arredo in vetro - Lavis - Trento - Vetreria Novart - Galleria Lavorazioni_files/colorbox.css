@@ -1,0 +1,53 @@
+/*
+    ColorBox Core Style
+    The following rules are the styles that are consistant between all ColorBox themes
+*/
+#colorbox, #cboxOverlay, #cboxWrapper, #contenutisensibiliOverlay{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay, #contenutisensibiliOverlay{display:none; position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative; overflow:visible;}
+#cboxLoadedContent{overflow:auto;}
+#cboxLoadedContent iframe{display:block; width:100%; height:100%; border:0;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+
+/* 
+    ColorBox example user style
+    The following rules are ordered and tabbed in a way that represents the order/nesting of the generated HTML, 
+    in hope that this will make the relationship easier to understand. Thanks, jack@colorpowered.com
+*/
+#cboxOverlay, #contenutisensibiliOverlay{background:url(/img/colorbox/overlay.png) 0 0 repeat;}
+
+#colorbox{}
+#cboxTopLeft{width:21px; height:21px; background:url(/img/colorbox/borderTopLeft.png) 0 0 no-repeat;}
+#cboxTopCenter{height:21px; background:url(/img/colorbox/borderTopCenter.png) 0 0 repeat-x;}
+#cboxTopRight{width:21px; height:21px; background:url(/img/colorbox/borderTopRight.png) 0 0 no-repeat;}
+#cboxBottomLeft{width:21px; height:21px; background:url(/img/colorbox/borderBottomLeft.png) 0 0 no-repeat;}
+#cboxBottomCenter{height:21px; background:url(/img/colorbox/borderBottomCenter.png) 0 0 repeat-x;}
+#cboxBottomRight{width:21px; height:21px; background:url(/img/colorbox/borderBottomRight.png) 0 0 no-repeat;}
+#cboxMiddleLeft{width:21px; background:url(/img/colorbox/borderMiddleLeft.png) 0 0 repeat-y;}
+#cboxMiddleRight{width:21px; background:url(/img/colorbox/borderMiddleRight.png) 0 0 repeat-y;}
+#cboxContent{background:#fff;}
+#cboxLoadedContent{margin-bottom:28px;}
+#cboxTitle{position:absolute; bottom:3px; left:0; text-align:center; width:100%; color:#949494;}
+#cboxCurrent{position:absolute; bottom:3px; left:58px; color:#949494;}
+#cboxSlideshow{position:absolute; bottom:3px; right:30px; color:#0092ef;}
+#cboxPrevious{position:absolute; bottom:0; left:0px; background:url(/img/colorbox/controls.png) -25px 0px no-repeat; width:25px; height:25px; text-indent:-9999px;}
+#cboxPrevious.hover{background-position:-25px -25px;}
+#cboxNext{position:absolute; bottom:0; left:27px; background:url(/img/colorbox/controls.png) 0px 0px no-repeat; width:25px; height:25px; text-indent:-9999px;}
+#cboxNext.hover{background-position:0px -25px;}
+#cboxLoadingOverlay{background:url(/img/colorbox/loading_background.png) center center no-repeat;}
+#cboxLoadingGraphic{background:url(/img/colorbox/loading.gif) center center no-repeat;}
+#cboxClose{position:absolute; bottom:0; right:0; background:url(/img/colorbox/controls.png) -50px 0px no-repeat; width:25px; height:25px; text-indent:-9999px;}
+#cboxClose.hover{background-position:-50px -25px;}
+/*inizio contenuti sensibili */
+#contenutisensibilibox {display: none; height: 300px; margin: 110px auto; position: relative; text-align: center; width: 929px; z-index: 99999;}
+#contenutisensibilibox h1 {background: url("/img/alert/warning.png") no-repeat scroll 40px center transparent; font-family: Arial,Helvetica,sans-serif; font-size: 24px; height: 79px; margin: 50px 0 -25px; padding:0 80px 0 180px; color: #2A2A2A;}
+#contenutisensibilibox p {font-size:14px; font-family:Arial, Helvetica, sans-serif;padding:0 80px 0 180px; height:190px; color: #2A2A2A;}
+#contenutisensibilibox .pulsanti {margin: -100px 0 0; padding:0 80px 0 180px;}
+#contenutisensibilibox .pulsanti a {display:block; height: 50px; border:0px; outline: none;}
+/* fine contenuti sensibili */
+#btnAllontanati {background: url("/img/alert/btn-allontanati.png") no-repeat scroll 0 0 transparent; bottom: 0; float: left; height: 60px; text-indent: -9999px; width: 162px;}
+#btnEntra {background: url("/img/alert/btn-entra.png") no-repeat scroll 0px 0 transparent; float:right; bottom: 0; height: 60px; text-indent: -9999px; width: 162px;}
+#btnContinua {background: url("/img/alert/btn-entra.png") no-repeat scroll 0px 0 transparent; float:right; bottom: 0; height: 60px; text-indent: -9999px; width: 162px;}

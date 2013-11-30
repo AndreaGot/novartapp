@@ -41,13 +41,17 @@
 
         <!--TitlePanel contiene il nome dell'applicazione e il titolo della pagina-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="APPLICAZIONE" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
-            <TextBlock Text="Vetreria Novart" Margin="2,-7,7,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Text="AndreaGot" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
+            <TextBlock Text="Vetreria Novart" Margin="-8,-7,10,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - inserire ulteriore contenuto qui-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Button x:Name="btnCreazioni" Content="Le nostre Creazioni" HorizontalAlignment="Left" Height="148" Margin="-14,303,-12,0" VerticalAlignment="Top" Width="482" FontSize="35" FontFamily="Segoe WP SemiLight" BorderThickness="2" Click="btnCreazioni_Click"/>
 
+            <Button x:Name="btnContatti" Content="Contatti" HorizontalAlignment="Left" Height="148" Margin="-14,456,-12,0" VerticalAlignment="Top" Width="482" FontSize="35" FontFamily="Segoe WP SemiLight" BorderThickness="2" Background="#FF007ACC" Click="btnContatti_Click"/>
+            <Button x:Name="btnLavorazioni" Content="Le nostre Lavorazioni" HorizontalAlignment="Left" Height="148" Margin="-14,150,-12,0" VerticalAlignment="Top" Width="482" FontSize="35" FontFamily="Segoe WP SemiLight" BorderThickness="2" Click="btnLavorazioni_Click" />
+            <Button x:Name="btnChiSiamo" Content="Chi Siamo" HorizontalAlignment="Left" Height="148" Margin="-14,2,-12,0" VerticalAlignment="Top" Width="482" FontSize="35" FontFamily="Segoe WP SemiLight" BorderThickness="2" Click="btnChiSiamo_Click"/>
         </Grid>
 
         <!--Rimuovere il commento per vedere la griglia di allineamento che consenta di verificare che i controlli siano

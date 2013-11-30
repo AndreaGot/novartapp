@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{20CDD173-AE94-4277-9B68-6BF26F8DFD9D}</ProjectGuid>
+    <ProjectGuid>{02AC1CE7-D3FC-493D-AC5B-D9C8646FEDD3}</ProjectGuid>
     <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -93,8 +93,17 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Gallery.xaml.cs">
-      <DependentUpon>Gallery.xaml</DependentUpon>
+    <Compile Include="ChiSiamo.xaml.cs">
+      <DependentUpon>ChiSiamo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Contatti.xaml.cs">
+      <DependentUpon>Contatti.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Creazioni.xaml.cs">
+      <DependentUpon>Creazioni.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Lavorazioni.xaml.cs">
+      <DependentUpon>Lavorazioni.xaml</DependentUpon>
     </Compile>
     <Compile Include="LocalizedStrings.cs" />
     <Compile Include="MainPage.xaml.cs">
@@ -112,7 +121,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
-    <Page Include="Gallery.xaml">
+    <Page Include="ChiSiamo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Contatti.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Creazioni.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Lavorazioni.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -128,6 +149,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="300x300.png" />
+    <Content Include="350x350.png" />
     <Content Include="Assets\AlignmentGrid.png" />
     <Content Include="Assets\ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -147,6 +170,15 @@
     <Content Include="Assets\Tiles\IconicTileSmall.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="img %281%29.jpg" />
+    <Content Include="img %282%29.jpg" />
+    <Content Include="img %283%29.jpg" />
+    <Content Include="img %284%29.jpg" />
+    <Content Include="LogoApp.png" />
+    <Resource Include="img.gif" />
+    <Content Include="img %285%29.jpg" />
+    <Content Include="img %286%29.jpg" />
+    <Content Include="img.jpg" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\AppResources.resx">

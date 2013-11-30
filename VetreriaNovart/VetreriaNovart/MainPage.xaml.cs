@@ -22,6 +22,30 @@ namespace VetreriaNovart
             //BuildLocalizedApplicationBar();
         }
 
+        private void btnChiSiamo_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/ChiSiamo.xaml", UriKind.Relative));
+        }
+
+        private void btnLavorazioni_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Lavorazioni.xaml", UriKind.Relative));
+        }
+
+        private void btnCreazioni_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Creazioni.xaml", UriKind.Relative));
+        }
+
+        private void btnContatti_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Contatti.xaml", UriKind.Relative));
+        }
+
+
+
+
+
         // Codice di esempio per la realizzazione di una ApplicationBar localizzata
         //private void BuildLocalizedApplicationBar()
         //{
