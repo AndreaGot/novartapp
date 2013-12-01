@@ -7,10 +7,10 @@
 
     Per ulteriori informazioni sui file manifesto di pacchetto, vedere http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="00448f3f-956a-415c-8b12-a9a9adb400da" Publisher="CN=andre_000" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="20685AndreaGot.VetreriaNovart" Publisher="CN=A1F1B194-41F0-4110-8983-9265144550A0" Version="1.1.0.0" ProcessorArchitecture="neutral" />
   <Properties>
-    <DisplayName>VetreriaNovartW8</DisplayName>
-    <PublisherDisplayName>andre_000</PublisherDisplayName>
+    <DisplayName>VetreriaNovart</DisplayName>
+    <PublisherDisplayName>AndreaGot</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>
@@ -22,7 +22,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="VetreriaNovartW8.exe" EntryPoint="VetreriaNovartW8.App">
-      <m2:VisualElements DisplayName="VetreriaNovartW8" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Loghi\30x30.png" Description="Applicazione della Vetreria Novart, azienda vetraria con sede a Lavis (Trento)" ForegroundText="light" BackgroundColor="#464646">
+      <m2:VisualElements DisplayName="VetreriaNovart" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Loghi\30x30.png" Description="Applicazione della Vetreria Novart, azienda vetraria con sede a Lavis (Trento)" ForegroundText="light" BackgroundColor="#464646">
         <m2:DefaultTile Wide310x150Logo="Loghi\310x150.png">
           <m2:ShowNameOnTiles>
             <m2:ShowOn Tile="square150x150Logo" />

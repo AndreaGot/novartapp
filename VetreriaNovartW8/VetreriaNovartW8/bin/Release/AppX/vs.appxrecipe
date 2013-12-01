@@ -5,25 +5,25 @@
     <WindowsUser>andre_000</WindowsUser>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>00448f3f-956a-415c-8b12-a9a9adb400da</PackageIdentityName>
-    <RegisteredManifestChecksum>634355B4F6458D38BBA305DB0536FC17F6D4442CA1E7B22BC3D1C598AA1198CE</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>00448f3f-956a-415c-8b12-a9a9adb400da_1.0.0.0_neutral__rbs0zhtm5xzbm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>00448f3f-956a-415c-8b12-a9a9adb400da_rbs0zhtm5xzbm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>00448f3f-956a-415c-8b12-a9a9adb400da</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=andre_000</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <PackageIdentityName>20685AndreaGot.VetreriaNovart</PackageIdentityName>
+    <RegisteredManifestChecksum>30CE32CEC2F0A7C1289AB2B92197165B0509A9C0E41F9B98B4AE8C3137A27EAF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>20685AndreaGot.VetreriaNovart_1.1.0.0_neutral__rsc9v6wka4ch4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>20685AndreaGot.VetreriaNovart_rsc9v6wka4ch4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>20685AndreaGot.VetreriaNovart</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=A1F1B194-41F0-4110-8983-9265144550A0</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-11-30T17:43:59.978</Modified>
+      <Modified>2013-11-30T17:59:48.014</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\VetreriaNovartW8.exe">
       <PackagePath>VetreriaNovartW8.exe</PackagePath>
-      <Modified>2013-11-30T17:43:58.862</Modified>
+      <Modified>2013-11-30T17:59:47.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\Foto\390648_2257737284750_1328847345_n.jpg">
       <PackagePath>Foto\390648_2257737284750_1328847345_n.jpg</PackagePath>
@@ -160,31 +160,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2013-11-30T17:43:58.603</Modified>
+      <Modified>2013-11-30T17:46:19.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\ChiSiamo.xbf">
       <PackagePath>ChiSiamo.xbf</PackagePath>
-      <Modified>2013-11-30T17:43:58.603</Modified>
+      <Modified>2013-11-30T17:59:47.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\Creazioni.xbf">
       <PackagePath>Creazioni.xbf</PackagePath>
-      <Modified>2013-11-30T17:43:58.603</Modified>
+      <Modified>2013-11-30T17:59:47.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\Contattaci.xbf">
       <PackagePath>Contattaci.xbf</PackagePath>
-      <Modified>2013-11-30T17:43:58.603</Modified>
+      <Modified>2013-11-30T17:46:19.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\Lavorazioni.xbf">
       <PackagePath>Lavorazioni.xbf</PackagePath>
-      <Modified>2013-11-30T17:43:58.604</Modified>
+      <Modified>2013-11-30T17:59:47.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2013-11-30T17:43:58.604</Modified>
+      <Modified>2013-11-30T17:59:47.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre_000\Documents\GitHub\novartapp\VetreriaNovartW8\VetreriaNovartW8\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-11-30T17:43:59.605</Modified>
+      <Modified>2013-11-30T17:59:47.897</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
